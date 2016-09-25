@@ -13,4 +13,11 @@
     "message" : "Finding the path to loading data into your Jupyter notebook a little cloudy? Cut through the haze and get right to your analysis by creating DataFrames for pandas, Spark SQL and RDD, and R ... in a single click.",
     "image_url" : "http://datascience.ibm.com/blog/content/images/2016/08/wRdxWjmL4w.gif",
     "blog_url" : "http://datascience.ibm.com/blog/upload-data-and-create-data-frames-in-jupyter-notebooks/"
+},
+{
+    "_id" : "3",
+    "title" : "Real time comments in Notebooks",
+    "date" : ISODate("2016-09-25T18:06:05.524Z"),
+    "message" : "Now you can provide feedback in real time in the new comments section in Jupyter Notebooks.",
+    "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/comments.png?raw=true"
 }
