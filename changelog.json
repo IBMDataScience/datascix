@@ -16,10 +16,10 @@
 },
 {
     "_id" : "3",
-    "title" : "Project Tabs",
+    "title" : "Project Tabs to classify your assets",
     "date" : ISODate("2016-09-25T11:06:05.524Z"),
     "message" : "In a project, get exactly the information you need when you need it. As the context changes, so do your options.",
-    "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/projectTabs.png?raw=true"
+    "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/projectTabs.PNG?raw=true"
 },
 {
     "_id" : "4",
