@@ -1,12 +1,5 @@
 {
     "_id" : "1",
-    "title" : "Real time comments in Notebooks",
-    "date" : ISODate("2016-09-25T18:06:05.524Z"),
-    "message" : "Now you can provide feedback in real time in the new comments section in Jupyter Notebooks.",
-    "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/comments.png?raw=true"
-},
-{
-    "_id" : "2",
     "title" : "Creative visualizations, fast and easy with Brunel",
     "date" : ISODate("2016-07-01T08:06:05.524Z"),
     "message" : "We all know how a picture often tells a story best, especially with data. Now that we support Brunel interactive visualizations in our Jupyter notebooks for Scala and Python, you can squeeze Brunel's flexibility and variety onto your palette and focus on setting your imagination free instead of learning a complex tool.",
@@ -14,10 +7,24 @@
     "blog_url" : "http://datascience.ibm.com/blog/brunel-interactive-visualization-in-jupyter-notebooks-2/"
 },
 {
-    "_id" : "3",
+    "_id" : "2",
     "title" : "DataFrames in a hurry for your Jupyter notebooks",
     "date" : ISODate("2016-08-15T08:06:05.524Z"),
     "message" : "Finding the path to loading data into your Jupyter notebook a little cloudy? Cut through the haze and get right to your analysis by creating DataFrames for pandas, Spark SQL and RDD, and R ... in a single click.",
     "image_url" : "http://datascience.ibm.com/blog/content/images/2016/08/wRdxWjmL4w.gif",
     "blog_url" : "http://datascience.ibm.com/blog/upload-data-and-create-data-frames-in-jupyter-notebooks/"
+},
+{
+    "_id" : "3",
+    "title" : "Project Tabs",
+    "date" : ISODate("2016-09-25T11:06:05.524Z"),
+    "message" : "In a project, get exactly the information you need when you need it. As the context changes, so do your options.",
+    "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/projectTabs.png?raw=true"
+},
+{
+    "_id" : "4",
+    "title" : "Real time comments in Notebooks",
+    "date" : ISODate("2016-09-25T18:06:05.524Z"),
+    "message" : "Now you can provide feedback in real time in the new comments section in Jupyter Notebooks.",
+    "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/comments.png?raw=true"
 }
