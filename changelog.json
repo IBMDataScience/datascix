@@ -31,7 +31,7 @@
 {
     "_id" : "5",
     "title" : "Version Control for Notebooks",
-    "date" : ISODate("2016-09-25T18:06:05.524Z"),
+    "date" : ISODate("2016-09-25T18:07:05.524Z"),
     "message" : "Users can view and revert to earlier versions of a Jupyter Notebook in order to see the history of changes and to restore former versions.",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/revertVersion.png?raw=true"
 }
