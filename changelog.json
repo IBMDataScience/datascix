@@ -19,7 +19,7 @@
     "title" : "Project Tabs to classify your assets",
     "date" : ISODate("2016-09-25T11:06:05.524Z"),
     "message" : "In a project, get exactly the information you need when you need it. As the context changes, so do your options.",
-    "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/projectTabs.PNG?raw=true"
+    "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/projectTabs.png?raw=true"
 },
 {
     "_id" : "4",
@@ -27,4 +27,11 @@
     "date" : ISODate("2016-09-25T18:06:05.524Z"),
     "message" : "Now you can provide feedback in real time in the new comments section in Jupyter Notebooks.",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/comments.png?raw=true"
+},
+{
+    "_id" : "5",
+    "title" : "Version Control for Notebooks",
+    "date" : ISODate("2016-09-25T18:06:05.524Z"),
+    "message" : "Users can view and revert to earlier versions of a Jupyter Notebook in order to see the history of changes and to restore former versions.",
+    "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/revertVersion.png?raw=true"
 }
