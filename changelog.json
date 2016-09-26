@@ -38,21 +38,21 @@
 {
     "_id" : "6",
     "title" : "New Product Documentation",
-    "date" : ISODate("2016-09-25T18:07:05.524Z"),
+    "date" : ISODate("2016-09-25T18:08:05.524Z"),
     "message" : "We create a brand new product documentation to help you find your way! ",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/documentation.jpg?raw=true"
 },
 {
     "_id" : "7",
     "title" : "Add data in a project or to a Notebook",
-    "date" : ISODate("2016-09-25T18:07:05.524Z"),
+    "date" : ISODate("2016-09-25T18:09:05.524Z"),
     "message" : "Now you can quickly add data by dragging files. Files go to your Object Storage instance...remember you get 5GB for free!",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/addData.PNG?raw=true"
 },
 {
     "_id" : "8",
     "title" : "Dashboard view of Jupyter Notebooks",
-    "date" : ISODate("2016-09-25T18:07:05.524Z"),
+    "date" : ISODate("2016-09-25T18:10:05.524Z"),
     "message" : "Users can decide now if they like to share the entire Notebook with stakeholders/other data scientist or just the output graphics in a dashboard view. It is also possible to hide sensitive information such as access credentials.",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/notebookSharing.png?raw=true"
 }
