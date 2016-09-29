@@ -20,6 +20,7 @@
     "date" : ISODate("2016-09-25T11:06:05.524Z"),
     "message" : "Take the high-level view, skim the surface, or dive deep! With project tabs, you can quickly review your project or get the gritty details on notebooks, assets, and collaborators.",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/projectTabs.PNG?raw=true"
+    "blog_url" : "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
 },
 {
     "_id" : "4",
@@ -27,6 +28,7 @@
     "date" : ISODate("2016-09-25T18:06:05.524Z"),
     "message" : "Say what you need to say. Collaboration is easier than ever with the new comments section in Jupyter notebooks.",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/comments.png?raw=true"
+    "blog_url" : "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
 },
 {
     "_id" : "5",
@@ -34,6 +36,7 @@
     "date" : ISODate("2016-09-25T18:07:05.524Z"),
     "message" : "Be daring with your data –we’ve got you covered. You can now save versions of your notebooks, view the change history, and even restore previous versions.",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/revertVersion.png?raw=true"
+    "blog_url" : "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
 },
 {
     "_id" : "6",
@@ -41,6 +44,7 @@
     "date" : ISODate("2016-09-25T18:08:05.524Z"),
     "message" : "Even the best explorers like to have a map. Our product documentation is here to help you find your way!",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/documentation.jpg?raw=true"
+    "blog_url" : "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
 },
 {
     "_id" : "7",
@@ -48,6 +52,7 @@
     "date" : ISODate("2016-09-25T18:09:05.524Z"),
     "message" : "Add data as you work: simply drag a file into a project or notebook, and it’s added to your object storage. Don’t be afraid to fill up—remember, you get 5 GB for free!",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/addData.PNG?raw=true"
+    "blog_url" : "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
 },
 {
     "_id" : "8",
@@ -55,4 +60,5 @@
     "date" : ISODate("2016-09-25T18:10:05.524Z"),
     "message" : "Feel like sharing? We’ve got an option for every comfort level. If your notebook is wide-eyed and ready for the world, you can share all notebook content with stakeholders or other data scientists. If it’s still a bit bashful, share only the output, or share a version that hides sensitive information like access credentials.",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/notebookSharing.png?raw=true"
+    "blog_url" : "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
 }
