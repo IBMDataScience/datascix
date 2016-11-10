@@ -3,7 +3,6 @@
 Repository hosting change log entries for use in the What's New page within Data Science Experience (DSX).
 
 ### (1) Local Setup
----
 
 #### (1.1) Clone Source
 
@@ -30,7 +29,6 @@ grunt
 ```
 
 ### (2) Change Log / Environment Mappings
----
 
 | DSX Environment | Change Log Path | DSX URL |
 | --- | --- | --- |
