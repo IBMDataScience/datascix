@@ -1,0 +1,18 @@
+{
+  "name": "datascix",
+  "description": "Repository hosting change log entries for use in the What's New page within Data Science Experience (DSX).",
+  "version": "1.0.0",
+  "license": "IPL-1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IBMDataScience/datascix"
+  },
+  "bugs": {
+    "url": "https://github.com/IBMDataScience/datascix/issues"
+  },
+  "author": "Armand Ruiz Gabernet <armand.ruiz@us.ibm.com>",
+  "devDependencies": {
+    "grunt": "1.0.1",
+    "grunt-jsonlint": "1.1.0"
+  }
+}
