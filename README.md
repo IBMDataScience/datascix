@@ -35,6 +35,7 @@ grunt
 
 
 | Environment | Path | URL |
+| --- | --- | --- |
 | YS1 DEV | https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/entries.json | https://apsx-dev.stage1.ng.bluemix.net/whats-new?context=analytics |
 | YP QA | https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/entries.json | https://apsx-qa.ng.bluemix.net/whats-new?context=analytics |
 | YP PROD | https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/entries.json | https://apsportal.ibm.com/whats-new?context=analytics |
