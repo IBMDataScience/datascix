@@ -6,7 +6,7 @@
 		"author" : "Armand Ruiz Gabernet",
 		"date" : "2016-07-01T08:06:05.524Z",
 		"message" : "We all know how a picture often tells a story best, especially with data. Now that we support Brunel interactive visualizations in our Jupyter notebooks for Scala and Python, you can squeeze Brunel's flexibility and variety onto your palette and focus on setting your imagination free instead of learning a complex tool.",
-		"image_url" : "http://datascience.ibm.com/blog/content/images/2016/06/m6QlLRdb3k.gif",
+		"image_url" : "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/m6QlLRdb3k.gif?raw=true",
 		"blog_url" : "http://datascience.ibm.com/blog/brunel-interactive-visualization-in-jupyter-notebooks-2/"
 	},
 	{
@@ -16,7 +16,7 @@
 		"author" : "Armand Ruiz Gabernet",
 		"date" : "2016-08-15T08:06:05.524Z",
 		"message" : "Finding the path to loading data into your Jupyter notebook a little cloudy? Cut through the haze and get right to your analysis by creating DataFrames for pandas, Spark SQL and RDD, and R ... in a single click.",
-		"image_url" : "http://datascience.ibm.com/blog/content/images/2016/08/wRdxWjmL4w.gif",
+		"image_url" : "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/wRdxWjmL4w.gif?raw=true",
 		"blog_url" : "http://datascience.ibm.com/blog/upload-data-and-create-data-frames-in-jupyter-notebooks/"
 	},
 	{
