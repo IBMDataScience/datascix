@@ -1,6 +1,7 @@
 [
 	{
 		"_id" : "1",
+		"id" : "0b463370-f4f4-40da-86f6-cd73202dfff3",
 		"title" : "Creative visualizations, fast and easy with Brunel",
 		"author" : "Armand Ruiz Gabernet",
 		"date" : "2016-07-01T08:06:05.524Z",
@@ -10,6 +11,7 @@
 	},
 	{
 		"_id" : "2",
+		"id" : "4b97c57a-8448-4fa1-917d-9f3c9d1ff76a",
 		"title" : "DataFrames in a hurry for your Jupyter notebooks",
 		"author" : "Armand Ruiz Gabernet",
 		"date" : "2016-08-15T08:06:05.524Z",
@@ -19,6 +21,7 @@
 	},
 	{
 		"_id" : "3",
+		"id" : "db5c121f-ef17-4ff2-bf5e-a5b57f679b9d",
 		"title" : "Project tabs to classify your assets",
 		"author" : "Armand Ruiz Gabernet",
 		"date" : "2016-09-25T11:06:05.524Z",
@@ -28,6 +31,7 @@
 	},
 	{
 		"_id" : "4",
+		"id" : "5dd5c522-b863-40bd-8b58-555e9138ca6e",
 		"title" : "Real-time comments in notebooks",
 		"author" : "Armand Ruiz Gabernet",
 		"date" : "2016-09-25T18:06:05.524Z",
@@ -37,6 +41,7 @@
 	},
 	{
 		"_id" : "5",
+		"id" : "06bc8f48-8751-49f1-a1fc-806e9cb788a6",
 		"title" : "Version control for notebooks",
 		"author" : "Armand Ruiz Gabernet",
 		"date" : "2016-09-25T18:07:05.524Z",
@@ -46,6 +51,7 @@
 	},
 	{
 		"_id" : "6",
+		"id" : "2786af11-ddc1-4f30-81f2-921c94df6ab4",
 		"title" : "New product documentation",
 		"author" : "Armand Ruiz Gabernet",
 		"date" : "2016-09-25T18:08:05.524Z",
@@ -55,6 +61,7 @@
 	},
 	{
 		"_id" : "7",
+		"id" : "73f89f00-c652-4153-8ecf-64f63e687d53",
 		"title" : "Fuel your experience with data",
 		"author" : "Armand Ruiz Gabernet",
 		"date" : "2016-09-25T18:09:05.524Z",
@@ -64,6 +71,7 @@
 	},
 	{
 		"_id" : "8",
+		"id" : "8b97228a-3ddb-427d-ab9e-a1998843f3a2",
 		"title" : "Share your Jupyter notebooks",
 		"author" : "Armand Ruiz Gabernet",
 		"date" : "2016-09-25T18:10:05.524Z",
