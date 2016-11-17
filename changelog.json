@@ -84,4 +84,4 @@
     "message" : "Just in time for the holidays, Spark 2.0 is available! Some are calling it the best Spark ever, with all the stability, all the new APIs, at faster speeds, and better throughput.",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/spark20.png?raw=true",
     "blog_url" : "http://datascience.ibm.com/blog/apache-r-spark-2-0-support/"
-}
+} 
