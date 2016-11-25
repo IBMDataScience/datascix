@@ -65,7 +65,11 @@ module.exports = {
 			"error",
 			"last"
 		],
-		"complexity": "error",
+		// Limit Cyclomatic Complexity
+		"complexity": [
+			"error",
+			20
+		],
 		"computed-property-spacing": [
 			"error",
 			"never"
@@ -188,6 +192,7 @@ module.exports = {
 			"error",
 			"functions"
 		],
+		// Disallow this keywords outside of classes or class-like objects
 		"no-invalid-this": "error",
 		"no-iterator": "error",
 		"no-label-var": "error",
