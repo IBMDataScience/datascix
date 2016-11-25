@@ -18,11 +18,20 @@ module.exports = function(grunt) {
 					"package.json"
 				]
 			}
+		},
+		eslint: {
+			node: {
+				src: [
+					"lib/**/*.js",
+					"Gruntfile.js"
+				]
+			}
 		}
 	});
 
 	grunt.loadNpmTasks("grunt-jsonlint");
+	grunt.loadNpmTasks("grunt-eslint");
 
-	grunt.registerTask("default", ["jsonlint"]);
+	grunt.registerTask("default", ["jsonlint", "eslint"]);
 
 };
