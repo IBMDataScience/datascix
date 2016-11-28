@@ -8,6 +8,8 @@
  *******************************************************************************/
 "use strict";
 
+const urlValidate = require("./lib/grunt-url-validate/task");
+
 module.exports = function(grunt) {
 
 	grunt.initConfig({
@@ -18,11 +20,51 @@ module.exports = function(grunt) {
 					"package.json"
 				]
 			}
+		},
+		eslint: {
+			node: {
+				src: [
+					"lib/**/*.js",
+					"Gruntfile.js"
+				]
+			}
+		},
+		urlValidate: {
+			dev: {
+				src: [
+					"public/dev/changelog/entries.json"
+				]
+			},
+			prod: {
+				src: [
+					"public/prod/changelog/entries.json"
+				]
+			},
+			qa: {
+				src: [
+					"public/qa/changelog/entries.json"
+				]
+			}
 		}
 	});
 
 	grunt.loadNpmTasks("grunt-jsonlint");
+	grunt.loadNpmTasks("grunt-eslint");
 
-	grunt.registerTask("default", ["jsonlint"]);
+	grunt.registerMultiTask("urlValidate", "Change Log URL Validation", function() {
+
+		/* eslint no-invalid-this: 0 */
+
+		const filePath = this.filesSrc.toString();
+		const done = this.async();
+		urlValidate.run(grunt, filePath, done);
+
+	});
+
+	grunt.registerTask("default", [
+		"jsonlint",
+		"eslint",
+		"urlValidate"
+	]);
 
 };

@@ -65,14 +65,14 @@
 {
     "_id" : "9",
     "title" : "Admit it. You know you have your favorites!",
-    "date" : "2016-08-24T18:10:05.524Z",
+    "date" : ISODate("2016-08-24T18:10:05.524Z"),
     "message" : "Why not bookmark them so you your find your favorite community cards even faster? Add your favorite bookmarks to projects to share them with your colleagues.",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/bookmark.png?raw=true"
 },
 {
     "_id" : "10",
     "title" : "Like their real-world namesakes, using Anaconda and Python 3.5 on Jupyter Notebooks is huge!",
-    "date" : "2016-08-24T18:10:05.524Z",
+    "date" : ISODate("2016-08-24T18:10:05.524Z"),
     "message" : "Now you can use Anaconda distribution with hundreds of Open Source packages already pre-installed.",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/python3.png?raw=true",
     "blog_url" : "http://datascience.ibm.com/blog/enjoy-python-3-5-in-jupyter-notebooks/"
@@ -80,7 +80,7 @@
 {
     "_id" : "11",
     "title" : "Now with extra sparkle!",
-    "date" : "2016-08-24T18:10:05.524Z",
+    "date" : ISODate("2016-08-24T18:10:05.524Z"),
     "message" : "Just in time for the holidays, Spark 2.0 is available! Some are calling it the best Spark ever, with all the stability, all the new APIs, at faster speeds, and better throughput.",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/spark20.png?raw=true",
     "blog_url" : "http://datascience.ibm.com/blog/apache-r-spark-2-0-support/"
