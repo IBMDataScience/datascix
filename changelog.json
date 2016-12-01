@@ -68,6 +68,7 @@
     "date" : ISODate("2016-08-24T18:10:05.524Z"),
     "message" : "Why not bookmark them so you your find your favorite community cards even faster? Add your favorite bookmarks to projects to share them with your colleagues.",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/img/bookmark.png?raw=true"
+    "blog_url" : "http://datascience.ibm.com/blog/"
 },
 {
     "_id" : "10",
