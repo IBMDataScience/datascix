@@ -85,4 +85,12 @@
     "message" : "Just in time for the holidays, Spark 2.0 is available! Some are calling it the best Spark ever, with all the stability, all the new APIs, at faster speeds, and better throughput.",
     "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/spark20.png?raw=true",
     "blog_url" : "http://datascience.ibm.com/blog/apache-r-spark-2-0-support/"
+},
+{
+    "_id" : "12",
+    "title" : "JSON, Mom called and said to stop being so difficult!",
+    "date" : ISODate("2016-12-05T18:10:05.524Z"),
+    "message" : "You called, we listened. We made it much easier to load JSON data from Object Storage. Now from inside a notebook you can click a JSON file and get options for loading it into Python and R notebooks. Also, you know how Mom always wants you to be social and share things? Well, we made that possible from within a notebook. DSX notebooks are shareable to LinkedIn and Twitter. As always, you can limit what you share. Thanks, Mom.",
+    "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/socialsharing.png?raw=true",
+    "blog_url" : "http://datascience.ibm.com/blog/easy-json-loading-and-social-sharing-in-dsx-notebooks/"
 }
