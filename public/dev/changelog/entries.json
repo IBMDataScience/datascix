@@ -1,13 +1,4 @@
 [
-    {
-        "title" : "TEST",
-        "id" : "8fda8345-31eb-4d1d-bf32-3473a50e4a1c",
-        "author" : "Mike Pawlowski",
-        "date" : "2017-01-20T18:10:05.524Z",
-        "message" : "Test Change Log contribution process",
-        "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/comments.png?raw=true",
-        "blog_url" : "https://apsportal.ibm.com/blog/github-integration-available-2/"
-    },
 	{
 		"title" : "This Hub is all abuzz with activity—GitHub, that is",
 		"id" : "e417029e-422a-4828-80ec-2a7ea112e6ad",
