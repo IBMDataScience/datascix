@@ -1,23 +1,14 @@
 [
-    {
-        "title" : "TEST",
-        "id" : "8fda8345-31eb-4d1d-bf32-3473a50e4a1c",
-        "author" : "Mike Pawlowski",
-        "date" : "2017-01-20T18:10:05.524Z",
-        "message" : "Test Change Log contribution process",
-        "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/comments.png?raw=true",
-        "blog_url" : "https://apsportal.ibm.com/blog/github-integration-available-2/"
-    },
-    {
-        "title" : "This Hub is all abuzz with activity—GitHub, that is",
-        "id" : "e417029e-422a-4828-80ec-2a7ea112e6ad",
-        "author" : "Armand Ruiz Gabernet",
-        "date" : "2017-01-15T18:10:05.524Z",
-        "message" : "DSX and GitHub integration means a lot more collaboration. Combine code, data, and visualizations and then track changes through all the iterations. It all starts with the IBM Data Science Experience Integrations tab, where you combine your GitHub account with DSX. So start buzzing!",
-        "image_url" : "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/github.png?raw=true?raw=true",
-        "blog_url" : "https://apsportal.ibm.com/blog/github-integration-available-2/"
-    },
-    {
+	{
+		"title" : "This Hub is all abuzz with activity—GitHub, that is",
+		"id" : "e417029e-422a-4828-80ec-2a7ea112e6ad",
+		"author" : "Armand Ruiz Gabernet",
+		"date" : "2017-01-15T18:10:05.524Z",
+		"message" : "DSX and GitHub integration means a lot more collaboration. Combine code, data, and visualizations and then track changes through all the iterations. It all starts with the IBM Data Science Experience Integrations tab, where you combine your GitHub account with DSX. So start buzzing!",
+		"image_url" : "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/github.png?raw=true",
+		"blog_url" : "https://apsportal.ibm.com/blog/github-integration-available-2/"
+	},
+	{
 		"title": "JSON, Mom called and said to stop being so difficult!",
 		"id": "95900c4c-6f49-4c17-b2fa-85e19bda35b0",
 		"author": "Armand Ruiz Gabernet",
