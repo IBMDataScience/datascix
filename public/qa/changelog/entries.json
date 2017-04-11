@@ -1,5 +1,15 @@
 [
 	{
+		"title": "Think of it as GPS for your work",
+		"id": "0a7c8e92-9528-40c5-b5fb-1d43715f85ba",
+		"author": "Bhavika Shah",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/author_b_shah.jpg?raw=true",
+		"date": "2017-04-10T18:10:05.524Z",
+		"message": "There’s that old saying, “You don’t know where you’re going until you know where you’ve been.” At IBM, we take that literally, which is why Data Science Experience has a whole new navigation design. It will help you get where you’re going and back to where you were. You can roll through your project work and collaboration. Hook up some tools or upgrade your data service. All from within YOUR data science community! The new DSX navigation will have you going places in no time.",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/dsx_nav_scr.png?raw=true",
+		"blog_url": "https://apsportal.ibm.com/blog/new-navigation-in-dsx-2/"
+	},
+	{
 		"title" : "This Hub is all abuzz with activity—GitHub, that is",
 		"id" : "e417029e-422a-4828-80ec-2a7ea112e6ad",
 		"author" : "Armand Ruiz Gabernet",
