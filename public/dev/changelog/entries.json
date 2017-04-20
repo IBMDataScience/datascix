@@ -1,5 +1,15 @@
 [
 	{
+		"title": "Dash in a Flash! (IBM dashDB, that is.)",
+		"id": "8052b839-1ef5-4ea1-9b60-0fc5d9709d32",
+		"author": "Greg Filla",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/author_greg_filla.jpg?raw=true",
+		"date": "2017-04-14T18:10:05.524Z",
+		"message": "Now it’s even easier to add dashDB data to your IBM Data Science Experience notebooks. With the familiar Insert to code function you use for JSON and CSV files, you can speed up your use of database tables inside Python, Scala, and R Notebooks. You don’t have to worry about your code or your credentials, all of that is taken care. With this much speed added to your throughput, you’ll be going for the gold in no time!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/wndashdemo.png?raw=true",
+		"blog_url": "https://datascience.ibm.com/blog/new-navigation-in-dsx-2/"
+	},
+	{
 		"title": "Think of it as GPS for your work",
 		"id": "0a7c8e92-9528-40c5-b5fb-1d43715f85ba",
 		"author": "Bhavika Shah",
@@ -7,7 +17,7 @@
 		"date": "2017-04-10T18:10:05.524Z",
 		"message": "There’s that old saying, “You don’t know where you’re going until you know where you’ve been.” At IBM, we take that literally, which is why Data Science Experience has a whole new navigation design. It will help you get where you’re going and back to where you were. You can roll through your project work and collaboration. Hook up some tools or upgrade your data service. All from within YOUR data science community! The new DSX navigation will have you going places in no time.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/dsx_nav_scr.png?raw=true",
-		"blog_url": "https://apsportal.ibm.com/blog/new-navigation-in-dsx-2/"
+		"blog_url": "https://datascience.ibm.com/blog/new-navigation-in-dsx-2/"
 	},
 	{
 		"title": "This Hub is all abuzz with activity—GitHub, that is",
@@ -17,7 +27,7 @@
 		"date": "2017-01-15T18:10:05.524Z",
 		"message": "DSX and GitHub integration means a lot more collaboration. Combine code, data, and visualizations and then track changes through all the iterations. It all starts with the IBM Data Science Experience Integrations tab, where you combine your GitHub account with DSX. So start buzzing!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/github.png?raw=true",
-		"blog_url": "https://apsportal.ibm.com/blog/github-integration-available-2/"
+		"blog_url": "https://datascience.ibm.com/blog/github-integration-available-2/"
 	},
 	{
 		"title": "JSON, Mom called and said to stop being so difficult!",
@@ -27,7 +37,7 @@
 		"date": "2016-12-05T18:10:05.524Z",
 		"message": "You called, we listened. We made it much easier to load JSON data from Object Storage. Now from inside a notebook you can click a JSON file and get options for loading it into Python and R notebooks. Also, you know how Mom always wants you to be social and share things? Well, we made that possible from within a notebook. DSX notebooks are shareable to LinkedIn and Twitter. As always, you can limit what you share. Thanks, Mom.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/socialsharing.png?raw=true",
-		"blog_url": "http://datascience.ibm.com/blog/easy-json-loading-and-social-sharing-in-dsx-notebooks/"
+		"blog_url": "https://datascience.ibm.com/blog/easy-json-loading-and-social-sharing-in-dsx-notebooks/"
 	},
 	{
 		"title": "Share your Jupyter notebooks",
@@ -37,7 +47,7 @@
 		"date": "2016-09-25T18:10:05.524Z",
 		"message": "Feel like sharing? We’ve got an option for every comfort level. If your notebook is wide-eyed and ready for the world, you can share all notebook content with stakeholders or other data scientists. If it’s still a bit bashful, share only the output, or share a version that hides sensitive information like access credentials.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/notebookSharing.png?raw=true",
-		"blog_url": "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
+		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
 	},
 	{
 		"title": "Fuel your experience with data",
@@ -47,7 +57,7 @@
 		"date": "2016-09-25T18:09:05.524Z",
 		"message": "Add data as you work: simply drag a file into a project or notebook, and it’s added to your object storage. Don’t be afraid to fill up—remember, you get 5 GB for free!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/addData.png?raw=true",
-		"blog_url": "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
+		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
 	},
 	{
 		"title": "New product documentation",
@@ -57,7 +67,7 @@
 		"date": "2016-09-25T18:08:05.524Z",
 		"message": "Even the best explorers like to have a map. Our product documentation is here to help you find your way!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/documentation.jpg?raw=true",
-		"blog_url": "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
+		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
 	},
 	{
 		"title": "Version control for notebooks",
@@ -67,7 +77,7 @@
 		"date": "2016-09-25T18:07:05.524Z",
 		"message": "Be daring with your data –we’ve got you covered. You can now save versions of your notebooks, view the change history, and even restore previous versions.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/revertVersion.png?raw=true",
-		"blog_url": "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
+		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
 	},
 	{
 		"title": "Real-time comments in notebooks",
@@ -77,7 +87,7 @@
 		"date": "2016-09-25T18:06:05.524Z",
 		"message": "Say what you need to say. Collaboration is easier than ever with the new comments section in Jupyter notebooks.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/comments.png?raw=true",
-		"blog_url": "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
+		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
 	},
 	{
 		"title": "Project tabs to classify your assets",
@@ -87,7 +97,7 @@
 		"date": "2016-09-25T11:06:05.524Z",
 		"message": "Take the high-level view, skim the surface, or dive deep! With project tabs, you can quickly review your project or get the gritty details on notebooks, assets, and collaborators.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/projectTabs.png?raw=true",
-		"blog_url": "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
+		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
 	},
 	{
 		"title": "Admit it. You know you have your favorites!",
@@ -97,7 +107,7 @@
 		"date": "2016-08-24T18:10:05.524Z",
 		"message": "Why not bookmark them so you your find your favorite community cards even faster? Add your favorite bookmarks to projects to share them with your colleagues.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/bookmark.png?raw=true",
-		"blog_url": "http://datascience.ibm.com/blog/"
+		"blog_url": "https://datascience.ibm.com/blog/"
 	},
 	{
 		"title": "Like their real-world namesakes, using Anaconda and Python 3.5 on Jupyter Notebooks is huge!",
@@ -107,7 +117,7 @@
 		"date": "2016-08-24T18:10:05.524Z",
 		"message": "Now you can use Anaconda distribution with hundreds of Open Source packages already pre-installed.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/python3.png?raw=true",
-		"blog_url": "http://datascience.ibm.com/blog/enjoy-python-3-5-in-jupyter-notebooks/"
+		"blog_url": "https://datascience.ibm.com/blog/enjoy-python-3-5-in-jupyter-notebooks/"
 	},
 	{
 		"title": "Now with extra sparkle!",
@@ -117,7 +127,7 @@
 		"date": "2016-08-24T18:10:05.524Z",
 		"message": "Just in time for the holidays, Spark 2.0 is available! Some are calling it the best Spark ever, with all the stability, all the new APIs, at faster speeds, and better throughput.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/spark20.png?raw=true",
-		"blog_url": "http://datascience.ibm.com/blog/apache-r-spark-2-0-support/"
+		"blog_url": "https://datascience.ibm.com/blog/apache-r-spark-2-0-support/"
 	},
 	{
 		"title": "DataFrames in a hurry for your Jupyter notebooks",
@@ -127,7 +137,7 @@
 		"date": "2016-08-15T08:06:05.524Z",
 		"message": "Finding the path to loading data into your Jupyter notebook a little cloudy? Cut through the haze and get right to your analysis by creating DataFrames for pandas, Spark SQL and RDD, and R ... in a single click.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/wRdxWjmL4w.gif?raw=true",
-		"blog_url": "http://datascience.ibm.com/blog/upload-data-and-create-data-frames-in-jupyter-notebooks/"
+		"blog_url": "https://datascience.ibm.com/blog/upload-data-and-create-data-frames-in-jupyter-notebooks/"
 	},
 	{
 		"title": "Creative visualizations, fast and easy with Brunel",
@@ -137,6 +147,6 @@
 		"date": "2016-07-01T08:06:05.524Z",
 		"message": "We all know how a picture often tells a story best, especially with data. Now that we support Brunel interactive visualizations in our Jupyter notebooks for Scala and Python, you can squeeze Brunel's flexibility and variety onto your palette and focus on setting your imagination free instead of learning a complex tool.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/m6QlLRdb3k.gif?raw=true",
-		"blog_url": "http://datascience.ibm.com/blog/brunel-interactive-visualization-in-jupyter-notebooks-2/"
+		"blog_url": "https://datascience.ibm.com/blog/brunel-interactive-visualization-in-jupyter-notebooks-2/"
 	}
 ]
