@@ -7,7 +7,7 @@
 		"date": "2017-04-14T18:10:05.524Z",
 		"message": "Now it’s even easier to add dashDB data to your IBM Data Science Experience notebooks. With the familiar Insert to code function you use for JSON and CSV files, you can speed up your use of database tables inside Python, Scala, and R Notebooks. You don’t have to worry about your code or your credentials, all of that is taken care. With this much speed added to your throughput, you’ll be going for the gold in no time!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/wndashdemo.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/new-navigation-in-dsx-2/"
+		"blog_url": "https://datascience.ibm.com/blog/enhanced-dashdb-and-dsx-integration-now-available/"
 	},
 	{
 		"title": "Think of it as GPS for your work",
