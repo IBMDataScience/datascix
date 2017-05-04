@@ -1,5 +1,15 @@
 [
 	{
+		"title": "From these streams, mighty rivers of data flow.",
+		"id": "96867ce1-2101-48fb-b3bb-4c2d03674878",
+		"author": "Will Marshall",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/author_will_marshall.jpg?raw=true",
+		"date": "2017-05-04T18:10:05.524Z",
+		"message": "The IBM Streams applications and the Python API merge to enable developers to retrieve and visualize streaming data. As a data scientist, you can train a model on a set of data, and then immediately incorporate that model into a streaming application. Get your hip-waders on, that data is surging!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/streaming_data_api.jpg?raw=true",
+		"blog_url": "https://datascience.ibm.com/blog/developing-ibm-streams-applications-with-the-python-api-version-1-6-2/"
+	},
+	{
 		"title": "Dash in a Flash! (IBM dashDB, that is.)",
 		"id": "8052b839-1ef5-4ea1-9b60-0fc5d9709d32",
 		"author": "Greg Filla",
