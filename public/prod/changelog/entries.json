@@ -7,7 +7,7 @@
 		"date": "2017-05-22T18:10:05.524Z",
 		"message": "Well, if you’re talking Franz Kafka, this is the wrong place, but if you’re talking Kafka 0.10 it’s just one of the new features for Spark 2.1 and, yeah, Data Science Experience has got that. Run your notebooks in Apache Spark 2.1 and enjoy better streaming analytics, SQL functionality, and valuable updates to the SparkR and MLlib modules. Monitor your usage of Spark by launching the history server. You can even enable Spark monitoring for code cells in your Python notebooks to see what your code is doing. All the features, none of the existential angst!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/progress.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/p/fe1314fd-db49-4a17-899b-8fdd6a8756fb/"
+		"blog_url": "https://datascience.ibm.com/blog/spark-2-1-and-job-monitoring-available-in-dsx/"
 	},
 	{
 		"title": "From these streams, mighty rivers of data flow.",
