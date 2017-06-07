@@ -1,5 +1,15 @@
 [
 	{
+		"title": "Your Amazon adventure awaits!",
+		"id": "2b42c80b-b28c-4fca-b6ea-d90b4af1011a",
+		"author": "Greg Filla",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/author_greg_filla.jpg?raw=true",
+		"date": "2017-06-01T18:10:05.524Z",
+		"message": "It’s a jungle out there! Lucky for you, you’ve got IBM Data Science Experience with you! Go ahead, run DSX notebooks using your AWS EMR clusters. Whether your travels take you close to home (staying nice and safe behind your firewall with DSX Local) or to the far reaches of the Amazon—Amazon EMR Spark Service that is—we’ve got your back!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/amazon_emr.png?raw=true",
+		"blog_url": "https://datascience.ibm.com/blog/run-dsx-notebooks-on-amazon-emr/"
+	},
+	{
 		"title": "Best. Spark. Ever. – Anything but Kafka-esque!",
 		"id": "f07d19da-5192-4675-b7fc-115b77464b2f",
 		"author": "Greg Filla",
