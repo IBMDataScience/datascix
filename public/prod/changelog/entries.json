@@ -10,6 +10,16 @@
 		"blog_url" : "https://www.ibm.com/blogs/bluemix/2017/06/data-science-experience-now-available-london/"
 	},
 	{
+		"title": "Data science can be a wild ride, at least with DSX you have a soft landing!",
+		"id": "3c6c761b-3496-43d4-9add-3ccdeaba2c01",
+		"author": "Armand Ruiz Gabernet",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/author_armand.jpg?raw=true",
+		"date": "2017-06-14T18:10:05.524Z",
+		"message": "Our new landing page reduces the number of clicks and makes it easier to navigate. Whether it’s the latest and greatest from our curated community or your own recent projects (nice job, by the way), IBM Data Science Experience puts you in the driver’s seat.",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/newlandingpage.png?raw=true",
+		"blog_url": "https://datascience.ibm.com/blog/new-landing-page-and-notifications/"
+	},
+	{
 		"title": "Your Amazon adventure awaits!",
 		"id": "2b42c80b-b28c-4fca-b6ea-d90b4af1011a",
 		"author": "Greg Filla",
@@ -18,6 +28,16 @@
 		"message": "It’s a jungle out there! Lucky for you, you’ve got IBM Data Science Experience with you! Go ahead, run DSX notebooks using your AWS EMR clusters. Whether your travels take you close to home (staying nice and safe behind your firewall with DSX Local) or to the far reaches of the Amazon—Amazon EMR Spark Service that is—we’ve got your back!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/amazon_emr.png?raw=true",
 		"blog_url": "https://datascience.ibm.com/blog/run-dsx-notebooks-on-amazon-emr/"
+	},
+	{
+		"title" : "Talking about small footprint, how is that even possible?",
+		"id" : "1da93f0b-d538-4f40-913d-d11b8cc52b90",
+		"author" : "Monica Fox",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/author_monica_fox.jpg?raw=true",
+		"date" : "2017-04-03T18:10:05.524Z",
+		"message" : "Miniaturization? Little nano-bots? Nah, it's just IBM Data Science Experience for Desktop. Right out of the box ... hang on, there's not even a box! It's right out of the easy-to-install download and you have a fully-functioning, fully-fabulous, fully-IBM version of Data Science Experience on your desktop. No internet needed. Data mavens beware! This just might be addictive!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/dsx-desktop-beta.png?raw=true",
+		"blog_url" : "https://datascience.ibm.com/blog/introducing-ibm-data-science-experience-desktop-beta/"
 	},
 	{
 		"title": "Best. Spark. Ever. – Anything but Kafka-esque!",

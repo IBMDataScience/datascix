@@ -30,6 +30,16 @@
 		"blog_url": "https://datascience.ibm.com/blog/run-dsx-notebooks-on-amazon-emr/"
 	},
 	{
+		"title" : "Talking about small footprint, how is that even possible?",
+		"id" : "1da93f0b-d538-4f40-913d-d11b8cc52b90",
+		"author" : "Monica Fox",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/author_monica_fox.jpg?raw=true",
+		"date" : "2017-04-03T18:10:05.524Z",
+		"message" : "Miniaturization? Little nano-bots? Nah, it's just IBM Data Science Experience for Desktop. Right out of the box ... hang on, there's not even a box! It's right out of the easy-to-install download and you have a fully-functioning, fully-fabulous, fully-IBM version of Data Science Experience on your desktop. No internet needed. Data mavens beware! This just might be addictive!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/dsx-desktop-beta.png?raw=true",
+		"blog_url" : "https://datascience.ibm.com/blog/introducing-ibm-data-science-experience-desktop-beta/"
+	},
+	{
 		"title": "Best. Spark. Ever. – Anything but Kafka-esque!",
 		"id": "f07d19da-5192-4675-b7fc-115b77464b2f",
 		"author": "Greg Filla",
