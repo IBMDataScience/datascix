@@ -30,16 +30,6 @@
 		"blog_url": "https://datascience.ibm.com/blog/run-dsx-notebooks-on-amazon-emr/"
 	},
 	{
-		"title" : "Talking about small footprint, how is that even possible?",
-		"id" : "1da93f0b-d538-4f40-913d-d11b8cc52b90",
-		"author" : "Monica Fox",
-		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/author_monica_fox.jpg?raw=true",
-		"date" : "2017-04-03T18:10:05.524Z",
-		"message" : "Miniaturization? Little nano-bots? Nah, it's just IBM Data Science Experience for Desktop. Right out of the box ... hang on, there's not even a box! It's right out of the easy-to-install download and you have a fully-functioning, fully-fabulous, fully-IBM version of Data Science Experience on your desktop. No internet needed. Data mavens beware! This just might be addictive!",
-		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/dsx-desktop-beta.png?raw=true",
-		"blog_url" : "https://datascience.ibm.com/blog/introducing-ibm-data-science-experience-desktop-beta/"
-	},
-	{
 		"title": "Best. Spark. Ever. – Anything but Kafka-esque!",
 		"id": "f07d19da-5192-4675-b7fc-115b77464b2f",
 		"author": "Greg Filla",
@@ -78,6 +68,16 @@
 		"message": "There’s that old saying, “You don’t know where you’re going until you know where you’ve been.” At IBM, we take that literally, which is why Data Science Experience has a whole new navigation design. It will help you get where you’re going and back to where you were. You can roll through your project work and collaboration. Hook up some tools or upgrade your data service. All from within YOUR data science community! The new DSX navigation will have you going places in no time.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/dsx_nav_scr.png?raw=true",
 		"blog_url": "https://datascience.ibm.com/blog/new-navigation-in-dsx-2/"
+	},
+	{
+		"title" : "Talking about small footprint, how is that even possible?",
+		"id" : "1da93f0b-d538-4f40-913d-d11b8cc52b90",
+		"author" : "Monica Fox",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/author_monica_fox.jpg?raw=true",
+		"date" : "2017-04-03T18:10:05.524Z",
+		"message" : "Miniaturization? Little nano-bots? Nah, it's just IBM Data Science Experience for Desktop. Right out of the box ... hang on, there's not even a box! It's right out of the easy-to-install download and you have a fully-functioning, fully-fabulous, fully-IBM version of Data Science Experience on your desktop. No internet needed. Data mavens beware! This just might be addictive!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/dsx-desktop-beta.png?raw=true",
+		"blog_url" : "https://datascience.ibm.com/blog/introducing-ibm-data-science-experience-desktop-beta/"
 	},
 	{
 		"title" : "This Hub is all abuzz with activity—GitHub, that is",
