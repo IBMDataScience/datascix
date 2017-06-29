@@ -10,6 +10,16 @@
 		"blog_url" : "https://www.ibm.com/blogs/bluemix/2017/06/data-science-experience-now-available-london/"
 	},
 	{
+		"title" : "We'd send you an owl or a carrier pigeon, but that can get kind of messy!",
+		"id" : "7b77d448-b203-48e7-9818-64e6c80f92c6",
+		"author": "Armand Ruiz Gabernet",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/author_armand.jpg?raw=true",
+		"date": "2017-06-14T10:10:05.524Z",
+		"message" : "Collaborate. Collaborate. Collaborate! Our new notifications are just one part of that. Wouldn't it be nice to know when you get an invitation? Yup, we've got that. How about comments in a notebook? Yup, that too. New data? We've got you covered. We're driving project awareness with our new notifications, just one of the ways we help you to work together! No fowls required.",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/notifications.png?raw=true",
+		"blog_url" : "https://datascience.ibm.com/blog/new-landing-page-and-notifications/"
+	},
+	{
 		"title": "Data science can be a wild ride, at least with DSX you have a soft landing!",
 		"id": "3c6c761b-3496-43d4-9add-3ccdeaba2c01",
 		"author": "Armand Ruiz Gabernet",
