@@ -1,5 +1,25 @@
 [
 	{
+		"title" : "Think Globally. Act Locally.",
+		"id" : "2cceb53c-fa44-4e90-9956-5c3adc787b70",
+		"author" : "Alex Jones",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/author_alex_jones.jpg?raw=true",
+		"date" : "2017-06-15T18:10:05.524Z",
+		"message" : "We know that IBM Data Science Experience is great, but what would make it even better is a local version that can be safe and sound behind your own firewall. DSX Local gives you a self-contained local cloud version running on a robust open-source Kubernetes cluster manager. With a simple unified installation you’ll be connecting to your local data sources in just a few clicks!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/localInst3.png?raw=true",
+		"blog_url" : "https://datascience.ibm.com/blog/introducing-ibm-data-science-experience-local/"
+	},
+	{
+		"title" : "Bluemix / Smiling at me / Nothing but Bluemix / Do I see",
+		"id" : "008c56e6-5dd3-4997-974e-fef66d84702c",
+		"author" : "Cecelia Shao",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/author_cecelia_shao.jpg?raw=true",
+		"date" : "2017-07-05T18:10:05.524Z",
+		"message" : "And, it’ll be blue skies for you as far as the eye can see with Data Science Experience on Bluemix! DSX joins the chorus of other Bluemix services. It will take you from solo product to harmonious platform with simplified data accessibility and easy-to-build application development. It will definitely have you singing a happy tune!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/bluemixblueskies.jpg?raw=true",
+		"blog_url" : "https://www.ibm.com/blogs/bluemix/2017/05/data-science-experience-now-available-bluemix/"
+	},
+	{
 		"title" : "It's London calling ... the new data center is brilliant!",
 		"id" : "10f1f0f9-7af9-412f-bc5e-d7992a6f5117",
 		"author" : "Cecelia Shao",
