@@ -1,5 +1,25 @@
 [
 	{
+		"title" : "We’re doomed! Machines are taking over the world!",
+		"id" : "8bede83b-3109-4e48-b191-ca7344f4fda6",
+		"author" : "Armand Ruiz Gabernet",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/author_armand.jpg?raw=true",
+		"date" : "2017-11-05T18:10:06.524Z",
+		"message" : "You’ve probably heard the hype, but with IBM Watson Machine Learning, it’s more like, “Machines are taking over the drudgery.” You can iterate and automate your data modeling processes. Not only can you train and deploy machine learning and deep learning models, but you can also host your predictive endpoint on a cloud platform that has no peers. No doom. No drudgery. Just pure analysis!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/wn_network_diag.png?raw=true",
+		"blog_url" : "https://medium.com/ibm-data-science-experience/watson-machine-learning-is-now-generally-available-8835ae8907d3/"
+	},
+	{
+		"title" : "Drivers, start your engines!",
+		"id" : "46527581-f155-49d3-8286-4887868dc2f2",
+		"author" : "Rohan Vaidyanathan",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/author_rohan_vaidyanathan.jpg?raw=true",
+		"date" : "2017-11-04T18:10:06.524Z",
+		"message" : "And with IBM Analytics Engine, you’re off at the speed of data! Because no data scientist ever wants to be fussing over the backend, Watson Data Platform gives you a single Hadoop and Spark service that lets you put the pedal to the floor with its Hyper-Core. You’re blowing the competition away with the ability to spin up clusters in minutes and by using our REST APIs and the Cloud Foundry CLI, you have programmatic access through external apps.  With better performance on I/O intensive workloads and full-on scalability up and down, you'll be taking the checkered flag!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/wn_iae.png?raw=true",
+		"blog_url" : "https://www.ibm.com/blogs/bluemix/2017/09/ibm-analytics-engine-beta-goes-live/"
+	},
+	{
 		"title" : "Think Globally. Act Locally.",
 		"id" : "2cceb53c-fa44-4e90-9956-5c3adc787b70",
 		"author" : "Alex Jones",
