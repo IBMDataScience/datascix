@@ -1,5 +1,18 @@
 [
 	{
+		"title" : "Hybrid cloud is like a kaleidoscope for data science",
+		"id" : "0129d180-82df-48a5-a09d-826474c7c7e7",
+		"author" : "Adam Massachi",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/author_adam_massachi.jpg?raw=true",
+		"date" : "2017-11-23T18:10:06.524Z",
+		"message" : "The many facets of our data science solution will fill you with delight! With the combined strength of DSX Cloud and DSX Local with Watson Machine Learning you'll be able to begin work on the cloud and then bring it down to earth behind your own firewall. You can build a model on cloud with Scala and Spark client libraries and then complete your analysis with the API client for Python and R4WML in DSX Local. The symmetry is stunning—perfect for reflecting your brilliant data analysis!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/dsx_wml_in_the_cloud_and_on_premises.png?raw=true",
+		"blog_url" : "https://medium.com/ibm-data-science-experience/dsx-hybrid-mode-91b580450c5b/",
+		"audience" : [
+			"data_science_experience"
+		]
+	},
+	{
 		"title" : "Introducing Streams Designer!",
 		"id" : "f558733f-97b0-487a-a1ca-3a4e905729d0",
 		"author" : "Jake Shelley",
