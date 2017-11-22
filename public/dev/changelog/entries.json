@@ -6,7 +6,7 @@
 		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/author_jake_shelley.jpeg?raw=true",
 		"date" : "2017-11-22T18:10:06.524Z",
 		"message" : "Building real-time applications doesn't have to be hard! Streams Designer makes streaming analytics more accessible to all by providing an easy to use, drag and drop environment for building streaming applications. Process data as it moves through your business like never before with Streams Designer, available today!",
-		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/1*0zq4QIq6YN93s5foF4qycQ.png?raw=true",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/introducingSteamsDesigner.png?raw=true",
 		"blog_url" : "https://medium.com/%40jacob.shelley/introducing-streams-designer-81c6ee313dd1/",
 		"audience" : [
 			"data_science_experience"
