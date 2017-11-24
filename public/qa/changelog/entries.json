@@ -14,7 +14,7 @@
 		"id" : "85f1c630-515b-45ca-819b-8b0a77239f64",
 		"author" : "Cecelia Shao",
 		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/author_cecelia_shao.jpg?raw=true",
-		"date" : "2017-11-23T18:10:06.524Z",
+		"date" : "2017-11-13T18:10:06.524Z",
 		"message" : "Supercharged? More like Petawatts of excitement for your teams when they discover how easy it is to collaborate by using IBM Data Science Experience. Now it's easier than ever because you can invite people that aren't even DSX users. Once they accept your invitation, they are automatically given access to the project, data assets, notebooks, models, and more.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/superchargeTeamCollab.png?raw=true",
 		"blog_url" : "https://medium.com/ibm-data-science-experience/supercharge-your-teams-collaboration-with-dsx-invitations-1142917e1525/"
