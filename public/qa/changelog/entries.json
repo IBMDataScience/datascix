@@ -1,5 +1,15 @@
 [
 	{
+		"title" : "Like finery for your data!",
+		"id" : "22a8e430-f6ce-4246-bdef-2a1ab01ff0f8",
+		"author" : "Carmen Ruppach",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/author_carmen_ruppach.jpg?raw=true",
+		"date" : "2017-11-14T18:10:06.524Z",
+		"message" : "Dahling, you look mahvelous! And with IBM Data Refinery you'll have your data looking better that ever. This self-service data preparation tool lets you cleanse, shape, and prepare data without the need for IT involvement. Because you can use Data Refinery to both transform and visualize data in the same interface, you can better understand your distribution of values taking you from frump to fashionista with data that'll be the envy of everyone!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/likeFineryForYourData.png?raw=true",
+		"blog_url" : "https://medium.com/ibm-data-science-experience/self-service-data-preparation-with-ibm-data-refinery-5166d581014e/"
+	},
+	{
 		"title" : "The genetic testing results are in and you'll never guess who's related",
 		"id" : "a9cd830b-5357-41fb-a00a-05a3c82dd088",
 		"author" : "Cecelia Shao",
