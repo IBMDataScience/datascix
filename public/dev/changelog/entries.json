@@ -1,5 +1,18 @@
 [
 	{
+		"title" : "Drowning in your data lake? IBM Data Catalog to the rescue!",
+		"id" : "2c2b0d09-1888-4377-b7de-7d79afba665a",
+		"author" : "Carmen Ruppach",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/author_susanna_tai.png?raw=true",
+		"date" : "2017-11-17T18:10:06.524Z",
+		"message" : "IBM Data Catalog is a lifeline for data scientists, data analysts ... actually make that ANYONE who works with data! Regardless of where data resources reside, you can find them with pinpoint accuracy. Use IBM Data Catalog to govern, catalog, automatically classify, refine, and analyze your data. You can even monitor policies and create a business glossary so that you entire team is synchronized. So get your tech suit on and head for open waters, today's the day you conquer your data lake!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/drowningInYourDataLake.png?raw=true",
+		"blog_url" : "https://medium.com/ibm-data-science-experience/discover-catalog-and-govern-data-with-ibm-data-catalog-5e1ef7d28df2/",
+		"audience" : [
+			"data_catalog"
+		]
+	},
+	{
 		"title" : "Like finery for your data!",
 		"id" : "22a8e430-f6ce-4246-bdef-2a1ab01ff0f8",
 		"author" : "Carmen Ruppach",
