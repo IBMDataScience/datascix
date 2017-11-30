@@ -7,7 +7,10 @@
 		"date" : "2017-11-17T18:10:06.524Z",
 		"message" : "IBM Data Catalog is a lifeline for data scientists, data analysts ... actually make that ANYONE who works with data! Regardless of where data resources reside, you can find them with pinpoint accuracy. Use IBM Data Catalog to govern, catalog, automatically classify, refine, and analyze your data. You can even monitor policies and create a business glossary so that you entire team is synchronized. So get your tech suit on and head for open waters, today's the day you conquer your data lake!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/drowningInYourDataLake.png?raw=true",
-		"blog_url" : "https://medium.com/ibm-data-science-experience/discover-catalog-and-govern-data-with-ibm-data-catalog-5e1ef7d28df2/"
+		"blog_url" : "https://medium.com/ibm-data-science-experience/discover-catalog-and-govern-data-with-ibm-data-catalog-5e1ef7d28df2/",
+		"audience" : [
+			"data_catalog"
+		]
 	},
 	{
 		"title" : "Like finery for your data!",
@@ -17,7 +20,10 @@
 		"date" : "2017-11-14T18:10:06.524Z",
 		"message" : "With IBM Data Refinery you'll have your data looking better that ever. This self-service data preparation tool lets you cleanse, shape, and prepare data without the need for IT involvement. Because you can use Data Refinery to both transform and visualize data in the same interface, you can better understand your distribution of values with data that'll be the envy of everyone!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/likeFineryForYourData.png?raw=true",
-		"blog_url" : "https://medium.com/ibm-data-science-experience/self-service-data-preparation-with-ibm-data-refinery-5166d581014e/"
+		"blog_url" : "https://medium.com/ibm-data-science-experience/self-service-data-preparation-with-ibm-data-refinery-5166d581014e/",
+		"audience" : [
+			"data_refinery"
+		]
 	},
 	{
 		"title" : "The genetic testing results are in and you'll never guess who's related",
@@ -27,7 +33,10 @@
 		"date" : "2017-11-08T18:10:06.524Z",
 		"message" : "It's all in the family with Watson Data Platform and Data Science Experience! This is what can happen when your dad is a world class AI platform and your mom is an analytics maven. So just in time for your family gathering you can bring together the power of services like IBM Data Catalog, IBM Data Refinery, and the many siblings of the Watson Data Platform into a complete data workflow. (OK, maybe IBM Natural Language Understanding is the chatty aunt, but she's definitely part of this merry family of data intelligence.) It's a family whose job is to Make Data Simple [period].",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/expandingDSXFamily.png?raw=true",
-		"blog_url" : "https://medium.com/ibm-data-science-experience/expanding-the-data-science-experience-family-2ede9efea6d7/"
+		"blog_url" : "https://medium.com/ibm-data-science-experience/expanding-the-data-science-experience-family-2ede9efea6d7/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title" : "This is so electric, even Nikola Tesla would be proud!",
@@ -37,7 +46,10 @@
 		"date" : "2017-11-13T18:10:06.524Z",
 		"message" : "Supercharged? More like Petawatts of excitement for your teams when they discover how easy it is to collaborate by using IBM Data Science Experience. Now it's easier than ever because you can invite people that aren't even DSX users. Once they accept your invitation, they are automatically given access to the project, data assets, notebooks, models, and more.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/superchargeTeamCollab.png?raw=true",
-		"blog_url" : "https://medium.com/ibm-data-science-experience/supercharge-your-teams-collaboration-with-dsx-invitations-1142917e1525/"
+		"blog_url" : "https://medium.com/ibm-data-science-experience/supercharge-your-teams-collaboration-with-dsx-invitations-1142917e1525/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title" : "Hybrid cloud is like a kaleidoscope for data science",
@@ -47,7 +59,10 @@
 		"date" : "2017-10-11T18:10:06.524Z",
 		"message" : "The many facets of our data science solution will fill you with delight! With the combined strength of DSX Cloud and DSX Local with Watson Machine Learning you'll be able to begin work on the cloud and then bring it down to earth behind your own firewall. You can build a model on cloud with Scala and Spark client libraries and then complete your analysis with the API client for Python and R4WML in DSX Local. The symmetry is stunning—perfect for reflecting your brilliant data analysis!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/dsx_wml_in_the_cloud_and_on_premises.png?raw=true",
-		"blog_url" : "https://medium.com/ibm-data-science-experience/dsx-hybrid-mode-91b580450c5b/"
+		"blog_url" : "https://medium.com/ibm-data-science-experience/dsx-hybrid-mode-91b580450c5b/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title" : "Introducing Streams Designer!",
@@ -57,7 +72,10 @@
 		"date" : "2017-11-15T18:10:06.524Z",
 		"message" : "Building real-time applications doesn't have to be hard! Streams Designer makes streaming analytics more accessible to all by providing an easy to use, drag and drop environment for building streaming applications. Process data as it moves through your business like never before with Streams Designer, available today!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/introducingSteamsDesigner.png?raw=true",
-		"blog_url" : "https://medium.com/%40jacob.shelley/introducing-streams-designer-81c6ee313dd1/"
+		"blog_url" : "https://medium.com/%40jacob.shelley/introducing-streams-designer-81c6ee313dd1/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title" : "We’re doomed! Machines are taking over the world!",
@@ -67,7 +85,10 @@
 		"date" : "2017-11-05T18:10:06.524Z",
 		"message" : "You’ve probably heard the hype, but with IBM Watson Machine Learning, it’s more like, “Machines are taking over the drudgery.” You can iterate and automate your data modeling processes. Not only can you train and deploy machine learning and deep learning models, but you can also host your predictive endpoint on a cloud platform that has no peers. No doom. No drudgery. Just pure analysis!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/wn_network_diag.png?raw=true",
-		"blog_url" : "https://medium.com/ibm-data-science-experience/watson-machine-learning-is-now-generally-available-8835ae8907d3/"
+		"blog_url" : "https://medium.com/ibm-data-science-experience/watson-machine-learning-is-now-generally-available-8835ae8907d3/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title" : "Drivers, start your engines!",
@@ -77,7 +98,10 @@
 		"date" : "2017-11-04T18:10:06.524Z",
 		"message" : "And with IBM Analytics Engine, you’re off at the speed of data! Because no data scientist ever wants to be fussing over the backend, Watson Data Platform gives you a single Hadoop and Spark service that lets you put the pedal to the floor with its Hyper-Core. You’re blowing the competition away with the ability to spin up clusters in minutes and by using our REST APIs and the Cloud Foundry CLI, you have programmatic access through external apps.  With better performance on I/O intensive workloads and full-on scalability up and down, you'll be taking the checkered flag!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/wn_iae.png?raw=true",
-		"blog_url" : "https://www.ibm.com/blogs/bluemix/2017/09/ibm-analytics-engine-beta-goes-live/"
+		"blog_url" : "https://www.ibm.com/blogs/bluemix/2017/09/ibm-analytics-engine-beta-goes-live/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title" : "Think Globally. Act Locally.",
@@ -87,7 +111,10 @@
 		"date" : "2017-07-05T18:10:06.524Z",
 		"message" : "We know that IBM Data Science Experience is great, but what would make it even better is a local version that can be safe and sound behind your own firewall. DSX Local gives you a self-contained local cloud version running on a robust open-source Kubernetes cluster manager. With a simple unified installation you’ll be connecting to your local data sources in just a few clicks!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/localInst3.png?raw=true",
-		"blog_url" : "https://datascience.ibm.com/blog/introducing-ibm-data-science-experience-local/"
+		"blog_url" : "https://datascience.ibm.com/blog/introducing-ibm-data-science-experience-local/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title" : "Bluemix / Smiling at me / Nothing but Bluemix / Do I see",
@@ -97,7 +124,10 @@
 		"date" : "2017-07-05T18:10:05.524Z",
 		"message" : "And, it’ll be blue skies for you as far as the eye can see with Data Science Experience on Bluemix! DSX joins the chorus of other Bluemix services. It will take you from solo product to harmonious platform with simplified data accessibility and easy-to-build application development. It will definitely have you singing a happy tune!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/bluemixblueskies.png?raw=true",
-		"blog_url" : "https://www.ibm.com/blogs/bluemix/2017/05/data-science-experience-now-available-bluemix/"
+		"blog_url" : "https://www.ibm.com/blogs/bluemix/2017/05/data-science-experience-now-available-bluemix/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 
 	{
@@ -108,7 +138,10 @@
 		"date" : "2017-06-15T18:10:05.524Z",
 		"message" : "Having DSX available in our London data center means that users based in Europe can experience improved latency and faster, more efficient data transfer, along with all the support and security benefits of an IBM cloud data center. Say, \"No\" to delays in computer interactions and \"Righto, Mate!\" to complying with relevant data regulations. Keep Calm and Data On!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/london.png?raw=true",
-		"blog_url" : "https://www.ibm.com/blogs/bluemix/2017/06/data-science-experience-now-available-london/"
+		"blog_url" : "https://www.ibm.com/blogs/bluemix/2017/06/data-science-experience-now-available-london/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title" : "We'd send you an owl or a carrier pigeon, but that can get kind of messy!",
@@ -118,7 +151,10 @@
 		"date": "2017-06-14T10:10:05.524Z",
 		"message" : "Collaborate. Collaborate. Collaborate! Our new notifications are just one part of that. Wouldn't it be nice to know when you get an invitation? Yup, we've got that. How about comments in a notebook? Yup, that too. New data? We've got you covered. We're driving project awareness with our new notifications, just one of the ways we help you to work together! No fowls required.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/notifications.png?raw=true",
-		"blog_url" : "https://datascience.ibm.com/blog/new-landing-page-and-notifications/"
+		"blog_url" : "https://datascience.ibm.com/blog/new-landing-page-and-notifications/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Data science can be a wild ride, at least with DSX you have a soft landing!",
@@ -128,7 +164,10 @@
 		"date": "2017-06-14T18:10:05.524Z",
 		"message": "Our new landing page reduces the number of clicks and makes it easier to navigate. Whether it’s the latest and greatest from our curated community or your own recent projects (nice job, by the way), IBM Data Science Experience puts you in the driver’s seat.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/newlandingpage.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/new-landing-page-and-notifications/"
+		"blog_url": "https://datascience.ibm.com/blog/new-landing-page-and-notifications/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Your Amazon adventure awaits!",
@@ -138,7 +177,10 @@
 		"date": "2017-06-01T18:10:05.524Z",
 		"message": "It’s a jungle out there! Lucky for you, you’ve got IBM Data Science Experience with you! Go ahead, run DSX notebooks using your AWS EMR clusters. Whether your travels take you close to home (staying nice and safe behind your firewall with DSX Local) or to the far reaches of the Amazon—Amazon EMR Spark Service that is—we’ve got your back!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/amazon_emr.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/run-dsx-notebooks-on-amazon-emr/"
+		"blog_url": "https://datascience.ibm.com/blog/run-dsx-notebooks-on-amazon-emr/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Best. Spark. Ever. – Anything but Kafka-esque!",
@@ -148,7 +190,10 @@
 		"date": "2017-05-22T18:10:05.524Z",
 		"message": "Well, if you’re talking Franz Kafka, this is the wrong place, but if you’re talking Kafka 0.10 it’s just one of the new features for Spark 2.1 and, yeah, Data Science Experience has got that. Run your notebooks in Apache Spark 2.1 and enjoy better streaming analytics, SQL functionality, and valuable updates to the SparkR and MLlib modules. Monitor your usage of Spark by launching the history server. You can even enable Spark monitoring for code cells in your Python notebooks to see what your code is doing. All the features, none of the existential angst!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/progress.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/spark-2-1-and-job-monitoring-available-in-dsx/"
+		"blog_url": "https://datascience.ibm.com/blog/spark-2-1-and-job-monitoring-available-in-dsx/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "From these streams, mighty rivers of data flow.",
@@ -158,7 +203,10 @@
 		"date": "2017-05-04T18:10:05.524Z",
 		"message": "The IBM Streams applications and the Python API merge to enable developers to retrieve and visualize streaming data. As a data scientist, you can train a model on a set of data, and then immediately incorporate that model into a streaming application. Get your hip-waders on, that data is surging!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/streaming_data_api.jpg?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/developing-ibm-streams-applications-with-the-python-api-version-1-6-2/"
+		"blog_url": "https://datascience.ibm.com/blog/developing-ibm-streams-applications-with-the-python-api-version-1-6-2/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Dash in a Flash! (IBM dashDB, that is.)",
@@ -168,7 +216,10 @@
 		"date": "2017-04-14T18:10:05.524Z",
 		"message": "Now it’s even easier to add dashDB data to your IBM Data Science Experience notebooks. With the familiar Insert to code function you use for JSON and CSV files, you can speed up your use of database tables inside Python, Scala, and R Notebooks. You don’t have to worry about your code or your credentials, all of that is taken care. With this much speed added to your throughput, you’ll be going for the gold in no time!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/wndashdemo.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/enhanced-dashdb-and-dsx-integration-now-available/"
+		"blog_url": "https://datascience.ibm.com/blog/enhanced-dashdb-and-dsx-integration-now-available/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Think of it as GPS for your work",
@@ -178,7 +229,10 @@
 		"date": "2017-04-10T18:10:05.524Z",
 		"message": "There’s that old saying, “You don’t know where you’re going until you know where you’ve been.” At IBM, we take that literally, which is why Data Science Experience has a whole new navigation design. It will help you get where you’re going and back to where you were. You can roll through your project work and collaboration. Hook up some tools or upgrade your data service. All from within YOUR data science community! The new DSX navigation will have you going places in no time.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/dsx_nav_scr.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/new-navigation-in-dsx-2/"
+		"blog_url": "https://datascience.ibm.com/blog/new-navigation-in-dsx-2/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title" : "Talking about small footprint, how is that even possible?",
@@ -188,7 +242,10 @@
 		"date" : "2017-04-03T18:10:05.524Z",
 		"message" : "Miniaturization? Little nano-bots? Nah, it's just IBM Data Science Experience for Desktop. Right out of the box ... hang on, there's not even a box! It's right out of the easy-to-install download and you have a fully-functioning, fully-fabulous, fully-IBM version of Data Science Experience on your desktop. No internet needed. Data mavens beware! This just might be addictive!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/dsx-desktop-beta.png?raw=true",
-		"blog_url" : "https://datascience.ibm.com/blog/introducing-ibm-data-science-experience-desktop-beta/"
+		"blog_url" : "https://datascience.ibm.com/blog/introducing-ibm-data-science-experience-desktop-beta/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title" : "This Hub is all abuzz with activity—GitHub, that is",
@@ -198,7 +255,10 @@
 		"date" : "2017-01-15T18:10:05.524Z",
 		"message" : "DSX and GitHub integration means a lot more collaboration. Combine code, data, and visualizations and then track changes through all the iterations. It all starts with the IBM Data Science Experience Integrations tab, where you combine your GitHub account with DSX. So start buzzing!",
 		"image_url" : "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/github.png?raw=true",
-		"blog_url" : "https://datascience.ibm.com/blog/github-integration-available-2/"
+		"blog_url" : "https://datascience.ibm.com/blog/github-integration-available-2/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "JSON, Mom called and said to stop being so difficult!",
@@ -208,7 +268,10 @@
 		"date": "2016-12-05T18:10:05.524Z",
 		"message": "You called, we listened. We made it much easier to load JSON data from Object Storage. Now from inside a notebook you can click a JSON file and get options for loading it into Python and R notebooks. Also, you know how Mom always wants you to be social and share things? Well, we made that possible from within a notebook. DSX notebooks are shareable to LinkedIn and Twitter. As always, you can limit what you share. Thanks, Mom.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/socialsharing.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/easy-json-loading-and-social-sharing-in-dsx-notebooks/"
+		"blog_url": "https://datascience.ibm.com/blog/easy-json-loading-and-social-sharing-in-dsx-notebooks/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Share your Jupyter notebooks",
@@ -218,7 +281,10 @@
 		"date": "2016-09-25T18:10:05.524Z",
 		"message": "Feel like sharing? We’ve got an option for every comfort level. If your notebook is wide-eyed and ready for the world, you can share all notebook content with stakeholders or other data scientists. If it’s still a bit bashful, share only the output, or share a version that hides sensitive information like access credentials.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/notebookSharing.png?raw=true",
-		"blog_url": "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
+		"blog_url": "http://datascience.ibm.com/blog/open-beta-available-for-everyone-2/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Fuel your experience with data",
@@ -228,7 +294,10 @@
 		"date": "2016-09-25T18:09:05.524Z",
 		"message": "Add data as you work: simply drag a file into a project or notebook, and it’s added to your object storage. Don’t be afraid to fill up—remember, you get 5 GB for free!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/addData.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
+		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "New product documentation",
@@ -238,7 +307,10 @@
 		"date": "2016-09-25T18:08:05.524Z",
 		"message": "Even the best explorers like to have a map. Our product documentation is here to help you find your way!",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/documentation.jpg?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
+		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Version control for notebooks",
@@ -248,7 +320,10 @@
 		"date": "2016-09-25T18:07:05.524Z",
 		"message": "Be daring with your data –we’ve got you covered. You can now save versions of your notebooks, view the change history, and even restore previous versions.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/revertVersion.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
+		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Real-time comments in notebooks",
@@ -258,7 +333,10 @@
 		"date": "2016-09-25T18:06:05.524Z",
 		"message": "Say what you need to say. Collaboration is easier than ever with the new comments section in Jupyter notebooks.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/comments.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
+		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Project tabs to classify your assets",
@@ -268,7 +346,10 @@
 		"date": "2016-09-25T11:06:05.524Z",
 		"message": "Take the high-level view, skim the surface, or dive deep! With project tabs, you can quickly review your project or get the gritty details on notebooks, assets, and collaborators.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/projectTabs.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/"
+		"blog_url": "https://datascience.ibm.com/blog/open-beta-available-for-everyone-2/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Admit it. You know you have your favorites!",
@@ -278,7 +359,10 @@
 		"date": "2016-08-24T18:10:05.524Z",
 		"message": "Why not bookmark them so you your find your favorite community cards even faster? Add your favorite bookmarks to projects to share them with your colleagues.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/bookmark.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/"
+		"blog_url": "https://datascience.ibm.com/blog/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Like their real-world namesakes, using Anaconda and Python 3.5 on Jupyter Notebooks is huge!",
@@ -288,7 +372,10 @@
 		"date": "2016-08-24T18:10:05.524Z",
 		"message": "Now you can use Anaconda distribution with hundreds of Open Source packages already pre-installed.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/python3.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/enjoy-python-3-5-in-jupyter-notebooks/"
+		"blog_url": "https://datascience.ibm.com/blog/enjoy-python-3-5-in-jupyter-notebooks/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Now with extra sparkle!",
@@ -298,7 +385,10 @@
 		"date": "2016-08-24T18:10:05.524Z",
 		"message": "Just in time for the holidays, Spark 2.0 is available! Some are calling it the best Spark ever, with all the stability, all the new APIs, at faster speeds, and better throughput.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/spark20.png?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/apache-r-spark-2-0-support/"
+		"blog_url": "https://datascience.ibm.com/blog/apache-r-spark-2-0-support/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "DataFrames in a hurry for your Jupyter notebooks",
@@ -308,7 +398,10 @@
 		"date": "2016-08-15T08:06:05.524Z",
 		"message": "Finding the path to loading data into your Jupyter notebook a little cloudy? Cut through the haze and get right to your analysis by creating DataFrames for pandas, Spark SQL and RDD, and R ... in a single click.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/wRdxWjmL4w.gif?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/upload-data-and-create-data-frames-in-jupyter-notebooks/"
+		"blog_url": "https://datascience.ibm.com/blog/upload-data-and-create-data-frames-in-jupyter-notebooks/",
+		"audience" : [
+			"data_science_experience"
+		]
 	},
 	{
 		"title": "Creative visualizations, fast and easy with Brunel",
@@ -318,6 +411,9 @@
 		"date": "2016-07-01T08:06:05.524Z",
 		"message": "We all know how a picture often tells a story best, especially with data. Now that we support Brunel interactive visualizations in our Jupyter notebooks for Scala and Python, you can squeeze Brunel's flexibility and variety onto your palette and focus on setting your imagination free instead of learning a complex tool.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/m6QlLRdb3k.gif?raw=true",
-		"blog_url": "https://datascience.ibm.com/blog/brunel-interactive-visualization-in-jupyter-notebooks-2/"
+		"blog_url": "https://datascience.ibm.com/blog/brunel-interactive-visualization-in-jupyter-notebooks-2/",
+		"audience" : [
+			"data_science_experience"
+		]
 	}
 ]
