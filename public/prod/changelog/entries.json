@@ -1,5 +1,18 @@
 [
 	{
+		"title" : "'Tis the season for CATALOGS!",
+		"id" : "f846ce56-13a6-4191-b7c3-7152c76b2d3a",
+		"author" : "Susanna Tai",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/author_susanna_tai.png?raw=true",
+		"date" : "2017-12-08T18:10:06.524Z",
+		"message" : "IBM Data Catalog, that is, and with the holidays upon us, you’ll soon be feeling merry and bright! IBM Data Catalog, which is now generally available, lets you discover, catalog, and govern your data. It’s available with both a Lite Plan, which lets you dabble, and a Professional Plan, which lets you create a business glossary and unlimited catalogs, discovery connections, and governance policies. Either way, you’ll feel like you’ve been very good this year!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/prod/changelog/img/tisTheSeasonForCatalogs.png?raw=true",
+		"blog_url" : "https://medium.com/ibm-data-science-experience/ibm-data-catalog-is-now-generally-available-3c3387b10792/",
+		"audience" : [
+			"data_catalog"
+		]
+	},
+	{
 		"title" : "Drowning in your data lake? IBM Data Catalog to the rescue!",
 		"id" : "2c2b0d09-1888-4377-b7de-7d79afba665a",
 		"author" : "Susanna Tai",
