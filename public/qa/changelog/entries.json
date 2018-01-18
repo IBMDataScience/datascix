@@ -1,5 +1,18 @@
 [
 	{
+		"title" : "It's a data mashup!",
+		"id" : "df402ef8-c1cd-4b02-a4bc-43288cd966ea",
+		"author" : "Carmen Ruppach",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/author_carmen_ruppach.jpg?raw=true",
+		"date" : "2018-01-08T18:10:06.524Z",
+		"message" : "Left join. Right join. Using Data Refinery, those are just a few of the data operations we can ALL JOIN! With numerous sources of data, from the Cloud, Social Media, and the Internet of Things, you’ve got to find ways to bring it all together. Data Refinery enables you to blend and transform your data like never before.",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/itsADataMashup.png?raw=true",
+		"blog_url" : "https://medium.com/ibm-data-science-experience/join-and-enrich-data-from-multiple-sources-9dd4b903b1d/",
+		"audience" : [
+			"data_refinery"
+		]
+	},
+	{
 		"title" : "'Tis the season for CATALOGS!",
 		"id" : "f846ce56-13a6-4191-b7c3-7152c76b2d3a",
 		"author" : "Susanna Tai",
