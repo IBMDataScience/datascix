@@ -1,5 +1,18 @@
 [
 	{
+		"title" : "Science 101: control the environment to control the experiment",
+		"id" : "f5c36839-8278-449b-9b99-2045847f6b61",
+		"author" : "Greg Filla",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/author_greg_filla.jpg?raw=true",
+		"date" : "2018-02-15T18:10:06.524Z",
+		"message" : "It's like my Chemistry teacher always said, \"You can't hope to get the experiment right unless you control the environment.\" That's just one aspect of Data Science Experience Environments, which is in beta right now for all users to try. This new functionality, which defines a relationship between a tool, software configuration, and hardware configuration, makes it easier than ever to customize, scale, and manage your work. For example, it gives you the power to configure a Jupyter notebook environment configured with Anaconda 5.0 with 4 vCPU and 16 GB RAM. By adding it to a project, like any other asset, you can standardize it for all your collaborators. Gee, Dr. Howard was right all along!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/science101.png?raw=true",
+		"blog_url" : "https://medium.com/ibm-data-science-experience/announcing-data-science-experience-environments-in-beta-ce11e4b6c952/",
+		"audience" : [
+			"data_science_experience"
+		]
+	},
+	{
 		"title" : "It's a data mashup!",
 		"id" : "df402ef8-c1cd-4b02-a4bc-43288cd966ea",
 		"author" : "Carmen Ruppach",
