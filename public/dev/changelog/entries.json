@@ -1,10 +1,23 @@
 [
 	{
+		"title" : "A little learning is a dang'rous thing; / Drink deep, or taste not the Pierian spring",
+		"id" : "349e9f1e-0ea2-4941-9b26-fb3ea47ef929",
+		"author" : "Anthony Stevens",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/author_anthony_stevens.jpeg?raw=true",
+		"date" : "2018-03-20T18:10:06.524Z",
+		"message" : "With Watson Studio Deep Learning you can take it all in. With popular deep learning frameworks, such as TensorFlow, Caffe, PyTorch and Keras, and a brand new visual tool, the Neural Network Modeler, you can scale your training runs into the thousands. There’s hyperparameter optimization and distributed deep learning to increase the number of training runs while speeding up the processing throughput. Finally, the Experiment Assistant can manage the experimental process in your preferred tool set—Python Client, Command Line, or GUI. Alexander Pope* had it right all along! (*No 18th century English poets were harmed in the making of this blog post.).",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/deep_learning_now_in_ibm_watson_studio.png?raw=true",
+		"blog_url" : "https://medium.com/ibm-watson/deep-learning-now-in-ibm-watson-studio-d8ba311e4ff1",
+		"audience" : [
+			"data_science_experience"
+		]
+	},
+	{
 		"title" : "Take a break from coding!",
 		"id" : "ca67ef88-b7c2-4271-acce-e9d73a6fb760",
 		"author" : "Greg Filla",
 		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/author_greg_filla.jpg?raw=true",
-		"date" : "2018-02-15T18:10:06.524Z",
+		"date" : "2018-03-20T18:10:06.524Z",
 		"message" : "With SPSS Modeler in Watson Studio you can rapidly iterate on data sets for finding the right algorithm or testing the right feature engineering in an easy-to-use and powerful graphical user interface. Now with a Data Refinery preview, advanced SPSS visualizations, and a one-click deployment of your model, you’ll be creating reproducible research that you entire team can understand quickly.",
 		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/Take_a_break_from_coding!.png?raw=true",
 		"blog_url" : "https://medium.com/gdfilla/3e7a5283772d",
