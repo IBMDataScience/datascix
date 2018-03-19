@@ -1,5 +1,18 @@
 [
 	{
+		"title" : "Take a break from coding!",
+		"id" : "ca67ef88-b7c2-4271-acce-e9d73a6fb760",
+		"author" : "Greg Filla",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/author_greg_filla.jpg?raw=true",
+		"date" : "2018-02-15T18:10:06.524Z",
+		"message" : "With SPSS Modeler in Watson Studio you can rapidly iterate on data sets for finding the right algorithm or testing the right feature engineering in an easy-to-use and powerful graphical user interface. Now with a Data Refinery preview, advanced SPSS visualizations, and a one-click deployment of your model, you’ll be creating reproducible research that you entire team can understand quickly.",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/qa/changelog/img/Take_a_break_from_coding!.png?raw=true",
+		"blog_url" : "https://medium.com/gdfilla/3e7a5283772d",
+		"audience" : [
+			"data_science_experience"
+		]
+	},
+	{
 		"title" : "Science 101: control the environment to control the experiment",
 		"id" : "f5c36839-8278-449b-9b99-2045847f6b61",
 		"author" : "Greg Filla",
