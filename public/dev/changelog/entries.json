@@ -1,5 +1,18 @@
 [
 	{
+		"title" : "Hello, my name is Watson. Welcome to my Studio.",
+		"id" : "9eece233-4f8e-4fa1-84be-d262618a137e",
+		"author" : "Armand Ruiz",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/author_armand.jpg?raw=true",
+		"date" : "2018-03-20T18:10:06.524Z",
+		"message" : "IBM Watson Studio makes AI more accessible across teams with tools for data scientists, application developers and subject matter experts. With a choice of machine learning and deep learning frameworks and visual or coding interfaces, Watson Studio takes the pain out of building, training, and deploying models. The new Watson Studio Dashboard makes it easy to explore and share data visualizations. And you were wondering what Watson was up to since winning Jeopardy!",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/hello_my_name_is_watson_welcome_to_my_studio.png?raw=true",
+		"blog_url" : "https://medium.com/ibm-watson/introducing-ibm-watson-studio-e93638f0bb47",
+		"audience" : [
+			"data_science_experience"
+		]
+	},
+	{
 		"title" : "A little learning is a dang'rous thing; / Drink deep, or taste not the Pierian spring",
 		"id" : "349e9f1e-0ea2-4941-9b26-fb3ea47ef929",
 		"author" : "Anthony Stevens",
