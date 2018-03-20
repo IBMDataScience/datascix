@@ -3,10 +3,10 @@
 		"title" : "Data Refinery snapshot view is like instant replay for your data!",
 		"id" : "2b1f1747-8047-4d4b-9474-f8e85a572f6e",
 		"author" : "Carmen Ruppach",
-		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/author_armand.jpg?raw=true",
+		"author_image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/author_carmen_ruppach.jpg?raw=true",
 		"date" : "2018-03-20T18:10:06.524Z",
 		"message" : "With Data Refinery snapshot view, you can step forward and backward through data updates to see how you got there. That’s not all, you can use it to make changes to any transformation at any time. Data Refinery also has new data connectors for IBM Watson Analytics, SFTP, and Teradata, and for unstructured data, there's Watson Natural Language Understanding (NLU) technology to profile unstructured text assets, such as PDF files and Microsoft Word documents. With that kind of data control, you won't need the photo finish to be declared the winner!",
-		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/hello_my_name_is_watson_welcome_to_my_studio.png?raw=true",
+		"image_url": "https://github.com/IBMDataScience/datascix/blob/master/public/dev/changelog/img/data_refinery_snapshot_view_is_like_instant_replay_for_your_data.png?raw=true",
 		"blog_url" : "https://medium.com/ibm-watson/whats-new-in-data-refinery-71ee098a89f8",
 		"audience" : [
 			"data_refinery"
