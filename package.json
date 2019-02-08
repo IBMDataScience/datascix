@@ -20,7 +20,7 @@
     "grunt": "1.0.1",
     "grunt-eslint": "19.0.0",
     "grunt-jsonlint": "1.1.0",
-    "lodash": "4.17.2",
+    "lodash": ">=4.17.11",
     "request": "2.79.0"
   }
 }
